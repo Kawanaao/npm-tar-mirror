@@ -1,0 +1,28 @@
+{
+  "name": "npm-tar-mirror",
+  "version": "1.0.0",
+  "description": "NPM mirror based on support for tar packages, inspired by Yarn's offline mode",
+  "main": "dist/index.js",
+  "types": "dist.index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kawanaao/npm-tar-mirror.git"
+  },
+  "keywords": [
+    "npm",
+    "yarn",
+    "mirror",
+    "local",
+    "offline",
+    "cache",
+    "tar",
+    "dependencies"
+  ],
+  "author": "Kawanaao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kawanaao/npm-tar-mirror/issues"
+  },
+  "homepage": "https://github.com/Kawanaao/npm-tar-mirror#readme"
+}
